@@ -6,10 +6,10 @@ Uitbreiding van het blog van week 3
 
 https://trello.com/b/CmmpC090/phpblog2new
 
-[W4-001] Checklist  -
-                    -
-                    -
-                    -
+[W4-001] Checklist  - sdsdsd
+                    -sdsdsdd
+                    -s dsd
+                    - sdsdds
 
 [W4-002] 
 
