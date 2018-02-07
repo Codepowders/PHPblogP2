@@ -1,11 +1,13 @@
 # PHPblogP2
 
+WEEK 4:
 
-Work in progress: https://trello.com/b/5u7siuVc/php-blog-part-2
+Uitbreiding van het blog van week 3
 
-JorritBreeuwer.nl/Blog
+https://trello.com/b/CmmpC090/phpblog2new
 
-Added Text shortcut script
+[W4-001] 
 
-Posting comments script inserted
+[W4-002] 
 
+[w4-002] 
