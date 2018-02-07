@@ -8,8 +8,9 @@ https://trello.com/b/CmmpC090/phpblog2new
 
 JorritBreeuwer.nl/Blog
 
-[W4-001] Checklist: 1. Decided to use javascript and a working demo online at my webbrowser
-                    2.  erererer
+[W4-001] Checklist: 
+1. Decided to use javascript and a working demo online at my webbrowser
+2. erererer
                  
 
 [W4-002] 
