@@ -10,7 +10,7 @@ JorritBreeuwer.nl/Blog
 
 [W4-001] Checklist: 
 1. Decided to use javascript and a working demo online at my webbrowser
-2. erererer
+2. 
                  
 
 [W4-002] 
