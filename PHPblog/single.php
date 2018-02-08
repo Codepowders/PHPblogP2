@@ -100,31 +100,6 @@ comments</blockquote>
 
 
   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
   <button type="submit" name="post_comment" class="btn">post comment <span>is Cool.</span></button>
   </form><br><br><hr>
 
@@ -134,6 +109,9 @@ comments</blockquote>
 
 
 <?php  while($comment = $comments->fetch_assoc()) {
+    
+    
+    
     
     if($comment['is_admin'] != 1) {
         
