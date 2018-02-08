@@ -9,7 +9,7 @@ https://trello.com/b/CmmpC090/phpblog2new
 JorritBreeuwer.nl/Blog
 
 
-Admin panel:
+<b>Admin panel:</b>
 
 JorritBreeuwer.nl/Blog/adnmin
 
