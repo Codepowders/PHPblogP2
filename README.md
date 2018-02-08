@@ -1,20 +1,18 @@
 # PHPblogP2
 
-WEEK 4:
+<b>WEEK 4:</b>
 
 Uitbreiding van het blog van week 3
 
 https://trello.com/b/CmmpC090/phpblog2new
 
-JorritBreeuwer.nl/Blog
+<b>Website</b> JorritBreeuwer.nl/Blog
 
 
-<b>Admin panel:</b>
-
-JorritBreeuwer.nl/Blog/adnmin
+<b>Admin panel:</b> JorritBreeuwer.nl/Blog/adnmin
 
 
-[W4-001] 
+<u>[W4-001]</u> 
 1. Decided to use javascript and a working demo online at my webbrowser
 2.
 3.
