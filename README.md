@@ -18,20 +18,19 @@ https://trello.com/b/CmmpC090/phpblog2new
 3.
 4.
                  
-[W4-002]
+<i>[W4-002]</i> 
 1. Admin panel has been created with the neccasery input fields
 2.
-
-[w4-003]
+<i>[W4-003]</i> 
 1. The column is made on the left side with the categories that can be pulled from the database.
 2. The categories are now linking to the desinated spot in the webrowser.
 3.
 
-[w4-004]
+<i>[W4-004]</i> 
 1. Comments can now be deleted in the admin panel.
 
-[w4-005]
+<i>[W4-005]</i> 
 1. In the admin panel: approve button for the comments or delete. To prevent trolling  
 2.
 
-[w4-006] 
+<i>[W4-006]</i> 
