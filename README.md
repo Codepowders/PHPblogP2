@@ -4,12 +4,11 @@
 
 Uitbreiding van het blog van week 3
 
-https://trello.com/b/CmmpC090/phpblog2new
+<b>Scrumboard:</b> https://trello.com/b/CmmpC090/phpblog2new
 
-<b>Website</b> JorritBreeuwer.nl/Blog
+<b>Website:</b> https://JorritBreeuwer.nl/Blog
 
-
-<b>Admin panel:</b> JorritBreeuwer.nl/Blog/adnmin
+<b>Admin panel:</b> https://JorritBreeuwer.nl/Blog/admin
 
 
 <i>[W4-001]</i> 
