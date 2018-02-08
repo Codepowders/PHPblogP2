@@ -12,7 +12,7 @@ https://trello.com/b/CmmpC090/phpblog2new
 <b>Admin panel:</b> JorritBreeuwer.nl/Blog/adnmin
 
 
-<u>[W4-001]</u> 
+<i>[W4-001]</i> 
 1. Decided to use javascript and a working demo online at my webbrowser
 2.
 3.
