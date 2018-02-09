@@ -1,6 +1,4 @@
-<?php include("includes/header.php")?>
-
-<br>
+<?php include("includes/header.php")?><br>
 
 <blockquote>Results</blockquote>
 
@@ -29,9 +27,5 @@
   <a href="#" class="btn">read more</a>
 </div>
 
-
 <?php include("includes/sidebar.php");?>
 <?php include("includes/footer.php");?>
-
-</body>
-</html>

@@ -1,15 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-  <title></title>
-  
-  
-  </head>
-  <body>
-
 <!-- Includes the header -->
 <?php include("includes/header.php");
   if(isset($_GET['category'] ) ) {
@@ -22,7 +10,6 @@
 <!-- Insert a blog into the database -->
 <div class="createpost">
 <form action="includes/insert.php" method="POST">
-
     <input type="checkbox" name="category" value="1"> JAVA
     <input type="checkbox" name="category" value="2"> PHP
     <input type="checkbox" name="category" value="3"> CSS
@@ -36,50 +23,29 @@
     <input type="text" name="author" placeholder="name">
     <br>
     <hr>
-    
     <textarea rows="20" id="createbody" type="text" name="body"></textarea>
-  
     <br>
     <hr>
     <input type="submit" name="insert" value="insert">
 </form>
 </div>
 
-    <script>
+<script>
 shortcuts = {
-    "cci" : "customer called in",
-    "rfc" : "request for comments",
-    "www" : "world wide web"
-}
-
+    "cg" : "CodeGorilla",
+    "js" : "Javascript",
+    "www" : "world wide web" }
 
 window.onload = function() {
     var ta = document.getElementById("createbody");
     var timer = 0;
     var re = new RegExp("\\b(" + Object.keys(shortcuts).join("|") + ")\\b", "g");
-    
 
-    
     update = function() {
         ta.value = ta.value.replace(re, function($0, $1) {
-            return shortcuts[$1.toLowerCase()];
-        });
-    }
-    
+            return shortcuts[$1.toLowerCase()]; }); }
+
     ta.onkeydown = function() {
         clearTimeout(timer);
-        timer = setTimeout(update, 200);
-
-    }
-
-    
-}
-
-
-
+        timer = setTimeout(update, 200); } }
 </script>
-
-
-
-</body>
-</html>

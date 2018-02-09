@@ -5,7 +5,7 @@
     <title></title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
-  <body>
+<body>
 
 <!-- Select the categories in the database -->
 <?php
